@@ -1,4 +1,4 @@
-![MasterHead]([https://buildfire.com/wp-content/uploads/2017/10/become-mobile-app-developer.jpg](https://developer.android.com/courses/kotlin-android-advanced/overview))
+![MasterHead]([https://buildfire.com/wp-content/uploads/2017/10/become-mobile-app-developer.jpg]
 <h1 align="center">Hi 👋, I'm Forhad Uddin Ahmed</h1>
 <h3 align="center">A passionate developer from Bangladesh.</h3>
 <img align="right" alt="Coding" width="300" src="https://img.freepik.com/premium-vector/serious-concentrated-developer-programming-sites_316839-2216.jpg">
