@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Medic**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Kotlin** and **Django**.
 
 - 💬 Ask me about **C, C++, Java, Kotlin, Python.**
 
