@@ -1,5 +1,5 @@
-[![MasterHead](https://buildfire.com/wp-content/uploads/2017/10/become-mobile-app-developer.jpg)]
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead]([https://buildfire.com/wp-content/uploads/2017/10/become-mobile-app-developer.jpg](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))]
+
 
 <h1 align="center">Hi 👋, I'm Forhad Uddin Ahmed</h1>
 <h3 align="center">A passionate developer from Bangladesh.</h3>
