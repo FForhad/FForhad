@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Forhad Uddin Ahmed</h1>
-<h3 align="center">A passionate developer from Bangladesh.</h3>
+<h3 align="center">A passionate App developer from Bangladesh.</h3>
 <img align="right" alt="Coding" width="300" src="https://img.freepik.com/premium-vector/serious-concentrated-developer-programming-sites_316839-2216.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fforhad&label=Profile%20views&color=0e75b6&style=flat" alt="fforhad" /> </p>
