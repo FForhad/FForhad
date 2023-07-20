@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Flutter** and **Django**.
 
-- 💬 Ask me about **C, C++, Java, Kotlin, Python.**
+- 💬 Ask me about **C, C++, Java, Kotlin, Dart, Python.**
 
 - 📫 How to reach me **forhad.uddin892@gmail.com**
 
