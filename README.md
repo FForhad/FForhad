@@ -9,9 +9,9 @@
 
 
 
-- 🔭 I’m currently working on **Medic**
+- 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **Kotlin** and **Django**.
+- 🌱 I’m currently learning **Flutter** and **Django**.
 
 - 💬 Ask me about **C, C++, Java, Kotlin, Python.**
 
