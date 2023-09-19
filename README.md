@@ -9,11 +9,11 @@
 
 
 
-- 🔭 I’m currently working on **Flutter**
+- 🔭 I’m currently working on **Django**
 
-- 🌱 I’m currently learning **Flutter** and **Django**.
+- 🌱 I’m currently learning **Android** and **Django**.
 
-- 💬 Ask me about **C, C++, Java, Kotlin, Dart, Python.**
+- 💬 Ask me about **C, C++, Java, Kotlin, Python.**
 
 - 📫 How to reach me **forhad.uddin892@gmail.com**
 
