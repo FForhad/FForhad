@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **forhad.uddin9028@gmail.com**
 
-- 📄 Know about my background [MY CV here](https://bit.ly/frhd_cv)
+- 📄 Know about my background [MY CV here](https://drive.google.com/file/d/13ebXIFOzAo9ZTnydwNashtPLVk__2KLX/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
