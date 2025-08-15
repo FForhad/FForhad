@@ -1,5 +1,4 @@
-//![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2l1cW56dXZzb2tpa2NxdGl4emcwcmIyZ296YnlsZmg4b2FpaXJkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif)
-![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXNtdzR5N2FhbzE4bm9iNHJrMXdtYmplaGUwNXIxcHFnenM2MmY0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)
+![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2l1cW56dXZzb2tpa2NxdGl4emcwcmIyZ296YnlsZmg4b2FpaXJkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif)
 
 <h1 align="center">Hi 👋, I'm Forhad Uddin Ahmed</h1>
 <h3 align="center">Backend-Focused Software Engineer | Django & React | AI & Scalable Systems</h3>
