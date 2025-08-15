@@ -1,4 +1,4 @@
-[![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2l1cW56dXZzb2tpa2NxdGl4emcwcmIyZ296YnlsZmg4b2FpaXJkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif)]
+![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2l1cW56dXZzb2tpa2NxdGl4emcwcmIyZ296YnlsZmg4b2FpaXJkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif)
 
 <h1 align="center">Hi 👋, I'm Forhad Uddin Ahmed</h1>
 <h3 align="center">A passionate Python developer from Bangladesh.</h3>
@@ -9,9 +9,8 @@
   <img src="https://komarev.com/ghpvc/?username=fforhad&label=Profile%20views&color=0e75b6&style=flat" alt="fforhad" /> 
 </p>
 
-- 🔭 I’m currently working on **Django**
-
-- 🌱 I’m currently learning **Django**
+- 🔭 Currently building full-stack applications with **Django & React**
+- 🌱 Learning scalable system design and AI-driven features.
 
 - 💬 Ask me about **C, C++, Python**
 
@@ -21,9 +20,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/fforhad" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fforhad" height="30" width="40" />
-  </a>
   <a href="https://kaggle.com/forhaduddinahmed" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="forhaduddinahmed" height="30" width="40" />
   </a>
@@ -49,6 +45,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="forhaduddin892" height="30" width="40" />
   </a>
 </p>
+
+![Forhad's GitHub stats](https://github-readme-stats.vercel.app/api?username=fforhad&show_icons=true&theme=tokyonight)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
