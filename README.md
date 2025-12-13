@@ -13,7 +13,8 @@
 - 🌱 Learning **scalable system design** and **AI-driven features**  
 - 💬 Ask me about **C, C++, Python**  
 - 📫 Reach me at **forhad.uddin9028@gmail.com**  
-- 📄 View my CV: [Click Here](https://drive.google.com/file/d/1ki0R6SS5bi6dQh2UhQGsA2vAk4NP4Vlh/view?usp=sharing)
+- 📄 View my Industrial CV: [Click Here](https://drive.google.com/file/d/1ki0R6SS5bi6dQh2UhQGsA2vAk4NP4Vlh/view?usp=sharing)
+- 📄 View my Academic CV: [Click Here](https://drive.google.com/file/d/1U2bAPflwCzhyOaFRs5wzgzCLj4q0h9AH/view?usp=sharing)
 
 ---
 
