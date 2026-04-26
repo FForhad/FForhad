@@ -19,7 +19,7 @@
 ---
 
 ## 🌐 Connect with Me  
-<p align="left">
+<p align="center">
   <a href="https://kaggle.com/forhaduddinahmed" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
