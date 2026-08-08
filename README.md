@@ -1,102 +1,160 @@
-![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2l1cW56dXZzb2tpa2NxdGl4emcwcmIyZ296YnlsZmg4b2FpaXJkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif)
+# 👋 Hi, I'm Forhad Uddin Ahmed 
 
-<h1 align="center">Hi 👋, I'm Forhad Uddin Ahmed</h1>
-<h3 align="center">Backend-Focused Software Engineer | Django & React | AI & Scalable Systems</h3>
+### Backend Software Engineer | Python • Django • FastAPI • PostgreSQL • Redis
 
-<img align="right" alt="Coding" width="300" src="https://img.freepik.com/premium-vector/serious-concentrated-developer-programming-sites_316839-2216.jpg">
+Software engineer focused on building **backend systems, REST APIs, and
+full-stack applications**. I primarily work with **Python, Django, and
+FastAPI**, with hands-on experience in databases, caching, authentication,
+Docker, Linux, CI/CD, and modern frontend technologies.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=fforhad&label=Profile%20views&color=0e75b6&style=flat" alt="fforhad" />
-</p>
+I'm also the **Founder of InitZone** and a **former university lecturer**,
+with a strong background in competitive programming, software engineering,
+and AI/ML research.
 
-- 🔭 Currently building **full-stack applications** with **Django & React**  
-- 🌱 Learning **scalable system design** and **AI-driven features**  
-- 💬 Ask me about **C, C++, Python**  
-- 📫 Reach me at **forhad.uddin9028@gmail.com**  
-- 📄 View my Industrial CV: [Click Here](https://drive.google.com/file/d/1ki0R6SS5bi6dQh2UhQGsA2vAk4NP4Vlh/view?usp=sharing)
-- 📄 View my Academic CV: [Click Here](https://drive.google.com/file/d/1dsiD3Yh7Nk68guFgdb18Jn01wVKs_o88/view?usp=sharing)
+> I like understanding how systems work under the hood, not just making them work.
 
 ---
 
-## 🌐 Connect with Me  
+## 🚀 Quick Facts
 
-<p align="center" style="white-space: nowrap;">
-  <a href="https://kaggle.com/forhaduddinahmed" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30"/>
-  </a>
-  <a href="https://fb.com/predictorr" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30"/>
-  </a>
-  <a href="https://www.codechef.com/users/fforhad" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30"/>
-  </a>
-  <a href="https://www.hackerrank.com/fforhad" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30"/>
-  </a>
-  <a href="https://codeforces.com/profile/fforhad" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30"/>
-  </a>
-  <a href="https://www.leetcode.com/fforhad" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30"/>
-  </a>
-  <a href="https://www.hackerearth.com/fforhad" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" height="30"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/forhaduddin892" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30"/>
-  </a>
+- 🔭 Currently building **Portulika** (www.portulika.com)
+- 🏢 Founder of **InitZone**, a software and technology company
+- 🏆 **3× ICPC Asia Dhaka Regional Contestant** (2021, 2022, 2023)
+- 🧩 Solved **700+ algorithmic problems** across multiple online judges
+- 🌱 Currently exploring **Redis internals, Kubernetes, system design,
+  and distributed systems**
+- 🎓 Former university lecturer in **Data Structures, Algorithms,
+  and Discrete Mathematics**
+- 🤖 Research experience in **Machine Learning and AI**
+- ⚡ Fun fact: I enjoy growing
+  chilies and lettuce in my garden
+
+---
+
+## 💼 Engineering Focus
+
+| Area | Technologies |
+|------|--------------|
+| **Backend** | Python · Django · DRF · FastAPI |
+| **Databases** | PostgreSQL · MySQL · SQLite |
+| **Caching** | Redis |
+| **Frontend** | React · Next.js · Tailwind CSS |
+| **DevOps** | Docker · Linux · Nginx · GitHub Actions |
+| **Infrastructure** | Kubernetes · CI/CD |
+| **Architecture** | REST APIs · System Design · Distributed Systems |
+| **AI/ML** | Machine Learning · Explainable AI · Intelligent Systems |
+
+---
+
+<!-- ## 🚀 Featured Projects
+
+### 📚 Portulika
+
+A reading and writing platform where writers can publish stories and
+readers can discover, review, and engage with content.
+
+**Django · Django REST Framework · PostgreSQL · Redis · Next.js · Docker**
+
+🔗 [View Repository](YOUR_PORTULIKA_REPO)
+
+---
+
+### 🌐 VirtualLife
+
+An AI-powered social platform featuring authentication, intelligent
+content moderation, recommendation systems, and a modern API-driven
+architecture.
+
+**Django · Django REST Framework · React · PostgreSQL · AI/ML · JWT · OAuth · Docker · CI/CD**
+
+🔗 [View Repository](YOUR_VIRTUALLIFE_REPO)
+
+---
+
+### 🌙 Prayer Companion
+
+A Linux desktop application for prayer-time tracking, countdowns,
+daily prayer records, and consistency tracking.
+
+**Python · PySide6 · SQLite · Linux**
+
+🔗 [View Repository](https://github.com/FForhad/prayer-companion) -->
+
+---
+
+## 🏆 Competitive Programming
+
+- 🥇 **3× ICPC Asia Dhaka Regional Contestant** — 2021, 2022, 2023
+- 🧠 Solved **700+ algorithmic problems** across multiple online judges
+- 🏁 **IUPC Contestant** at SUST and CUET
+- 👨‍💻 Former **General Secretary, BAIUST Computer Club**
+
+Competitive programming strengthened my problem-solving skills,
+algorithmic thinking, and ability to reason about complexity and
+constraints.
+
+---
+
+## 📚 Research & Academic Experience
+
+My research interests sit at the intersection of **software engineering,
+Artificial Intelligence, and Machine Learning**, with applications in
+healthcare and intelligent systems.
+
+### Research
+
+- 📄 Peer-reviewed research on **Bitcoin Price Forecasting**
+- 🧠 Research on **Brain Stroke Prediction using Machine Learning**
+- 🎓 First-author research presented at **IEEE conferences**, including
+  ICICT4SD and ICCIT
+
+### Teaching & Mentorship
+
+- 🎓 Former university lecturer
+- 📘 Taught **Data Structures, Algorithms, and Discrete Mathematics**
+- 👨‍🏫 Trained **50+ participants in Python/Django** under the EDGE project
+
+---
+
+## 🧠 Currently Exploring
+
+**System Design · Distributed Systems · Redis Internals · Kubernetes ·
+Scalable Backend Architecture · Production AI/ML**
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=FForhad&show_icons=true&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FForhad&layout=compact&hide_border=true" />
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
-![Forhad's GitHub stats](https://github-readme-stats.vercel.app/api?username=fforhad&show_icons=true&theme=tokyonight)
+## 🌐 Let's Connect
+
+
+📧 **Email:** [forhad.uddin9028@gmail.com](mailto:forhad.uddin9028@gmail.com)
+
+<!-- 💼 **LinkedIn:** [LinkedIn Profile](YOUR_LINKEDIN) -->
+
+🌐 **Portfolio:** [fforhad.github.io](https://fforhad.github.io)
+
+👨‍💻 **LeetCode:** [fforhad](https://leetcode.com/fforhad)
+
+📄 **Resumes:** [Industrial CV](https://drive.google.com/file/d/1L-Om0ppZu1dBgptgUSnWwY9jQrtLEt7N/view?usp=sharing) ·
+[Academic CV](https://drive.google.com/file/d/1jN_-NIM6PftbdujPAGiJuVQO7xdmiUm6/view?usp=sharing)
 
 ---
 
-## 💻 Languages and Tools
-
-### Programming Languages
-<p align="left" style="white-space: nowrap;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" height="40"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FForhad&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-### Backend & Databases
-<p align="left" style="white-space: nowrap;">
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40"/>
+<p align="center">
+  ⭐ Feel free to explore my repositories and projects.
 </p>
-
-### Frontend & UI
-<p align="left" style="white-space: nowrap;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40"/>
-</p>
-
-### DevOps, Tools & Others
-<p align="left" style="white-space: nowrap;">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-- [AI-Powered Social Platform](#) – Django + React, AI moderation, recommendations  
-- [Virtual Life](#) – Social media platform with JWT & OAuth authentication  
