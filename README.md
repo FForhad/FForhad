@@ -47,7 +47,7 @@ and AI/ML research.
 ---
 
 ## 🚀 Featured Projects
-## 🤖 [AI-Powered ATS Resume Optimization Platform](https://github.com/FForhad/ats-resume-agent)
+### 🤖 [AI-Powered ATS Resume Optimization Platform](https://github.com/FForhad/ats-resume-agent)
 
 A production-grade AI system that analyzes resumes against job descriptions and generates **truthful, evidence-grounded, ATS-friendly optimizations**.
 
@@ -55,7 +55,7 @@ A production-grade AI system that analyzes resumes against job descriptions and 
 
 **Highlights:** Multi-agent AI · Hybrid RAG · Deterministic ATS scoring · Zero-fabrication architecture · Prompt-injection protection · Automated evaluation · CI/CD · Infrastructure automation · Observability
 
-### Why I'm Proud
+#### Why I'm Proud
 
 I built this to explore what happens when an LLM is treated as **one component of a real software system rather than the entire system**. The project combines AI reasoning with deterministic rules, evidence-based retrieval, security, testing, CI/CD, deployment automation, and observability.
 
