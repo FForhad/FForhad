@@ -46,7 +46,36 @@ and AI/ML research.
 
 ---
 
-<!-- ## 🚀 Featured Projects
+## 🚀 Featured Projects
+### 🤖 AI-Powered ATS Resume Optimization Platform
+
+A production-quality AI platform that analyzes resumes against job descriptions and generates **truthful, ATS-friendly resume optimizations**.
+
+#### 🛠️ Tech Stack
+
+`Python` `Django` `DRF` `Next.js` `TypeScript` `PostgreSQL` `Redis` `Gemini` `LangGraph` `RAG` `FAISS` `Docker` `Jenkins` `Ansible` `Prometheus` `Grafana` `Loki`
+
+#### ✨ Key Features
+
+- 📄 Resume & Job Description intelligent parsing
+- 🧠 Gemini + LangGraph multi-agent AI architecture
+- 🔎 Hybrid RAG using BM25 + FAISS
+- 📊 Deterministic & explainable ATS scoring
+- 🛡️ Zero-fabrication, evidence-grounded resume optimization
+- 🔐 Prompt-injection protection & tenant isolation
+- 📝 ATS-friendly DOCX/PDF generation
+- 🧪 Automated testing & evaluation benchmarks
+- 🚀 Dockerized deployment with Jenkins + Ansible
+- 📈 Prometheus, Grafana & Loki observability
+
+#### Why I'm Proud of This
+
+I'm proud of this project because it goes beyond simply calling an LLM API. I designed it as a **real production system**, combining AI agents, RAG, deterministic business logic, security, testing, CI/CD, infrastructure automation, and observability.
+
+Most importantly, I deliberately designed the system around **truth instead of fabrication**. The AI can optimize how a candidate presents their real experience, but it can never invent experience they don't have.
+
+This project represents the kind of engineer I want to become: someone who can take an AI idea and turn it into a **reliable, explainable, secure, and deployable software system**.
+<!-- 
 
 ### 📚 Portulika
 
