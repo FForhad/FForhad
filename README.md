@@ -137,17 +137,14 @@ Scalable Backend Architecture · Production AI/ML**
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=FForhad&show_icons=true&hide_border=true&theme=transparent"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FForhad&layout=compact&hide_border=true&theme=transparent"
-    height="180"
-  />
+  <img src="https://streak-stats.demolab.com?user=FForhad&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FForhad&theme=github-compact&hide_border=true" />
 </p>
 
 ---
