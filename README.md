@@ -145,7 +145,7 @@ Scalable Backend Architecture · Production AI/ML**
     height="180"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FForhad&layout=compact&hide_border=true&hide_border=true&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FForhad&layout=compact&hide_border=true&theme=transparent"
     height="180"
   />
 </p>
