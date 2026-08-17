@@ -150,17 +150,21 @@ Scalable Backend Architecture · Production AI/ML**
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=FForhad&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github"
-    height="180"
-    alt="FForhad's GitHub Stats"
-  />
+  <a href="https://github.com/FForhad">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=FForhad&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&rank_icon=github&cache_seconds=1800"
+      height="180"
+      alt="FForhad's GitHub Stats"
+    />
+  </a>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FForhad&layout=compact&langs_count=8&hide_border=true&theme=transparent"
-    height="180"
-    alt="FForhad's Top Languages"
-  />
+  <a href="https://github.com/FForhad">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FForhad&layout=compact&langs_count=8&hide_border=true&theme=transparent&cache_seconds=1800"
+      height="180"
+      alt="FForhad's Top Languages"
+    />
+  </a>
 </p>
 
 <p align="center">
@@ -178,36 +182,6 @@ Scalable Backend Architecture · Production AI/ML**
   />
 </p>
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=FForhad&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github"
-    height="180"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FForhad&layout=compact&langs_count=8&hide_border=true&theme=transparent"
-    height="180"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=FForhad&theme=transparent&hide_border=true&date_format=M%20j%2C%20Y"
-    height="180"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=FForhad&theme=github-compact&hide_border=true&area=true&custom_title=FForhad%27s%20Contribution%20Graph"
-    alt="Contribution Graph"
-  />
-</p>
 ---
 
 ## 🌐 Let's Connect
