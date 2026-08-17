@@ -147,6 +147,36 @@ Scalable Backend Architecture · Production AI/ML**
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FForhad&theme=github-compact&hide_border=true" />
 </p>
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=FForhad&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github"
+    height="180"
+    alt="FForhad's GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FForhad&layout=compact&langs_count=8&hide_border=true&theme=transparent"
+    height="180"
+    alt="FForhad's Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=FForhad&theme=transparent&hide_border=true"
+    height="180"
+    alt="FForhad's GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=FForhad&theme=github-compact&hide_border=true&area=true"
+    alt="FForhad's GitHub Activity Graph"
+  />
+</p>
 ---
 
 ## 🌐 Let's Connect
