@@ -146,14 +146,13 @@ Scalable Backend Architecture · Production AI/ML**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FForhad&theme=github-compact&hide_border=true" />
 </p>
+
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,linux,githubactions,jenkins,ansible,aws,gcp,react,nextjs,typescript,git&perline=8" />
-
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,linux,githubactions,jenkins,ansible,aws,gcp,react,nextjs,typescript,git&perline=8" />
 </p>
 
 ---
