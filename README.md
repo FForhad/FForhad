@@ -146,40 +146,14 @@ Scalable Backend Architecture · Production AI/ML**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FForhad&theme=github-compact&hide_border=true" />
 </p>
+---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/FForhad">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=FForhad&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&rank_icon=github&cache_seconds=1800"
-      height="180"
-      alt="FForhad's GitHub Stats"
-    />
-  </a>
-
-  <a href="https://github.com/FForhad">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FForhad&layout=compact&langs_count=8&hide_border=true&theme=transparent&cache_seconds=1800"
-      height="180"
-      alt="FForhad's Top Languages"
-    />
-  </a>
-</p>
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=FForhad&theme=transparent&hide_border=true"
-    height="180"
-    alt="FForhad's GitHub Streak"
-  />
-</p>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=FForhad&theme=github-compact&hide_border=true&area=true"
-    alt="FForhad's GitHub Activity Graph"
-  />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,linux,githubactions,jenkins,ansible,aws,gcp,react,nextjs,typescript,git&perline=8" />
+
 </p>
 
 ---
