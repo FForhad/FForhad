@@ -140,7 +140,7 @@ Scalable Backend Architecture · Production AI/ML**
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=FForhad" />
+  <img src="https://streak-stats.demolab.com/?user=FForhad&hide_border=true" />
 </p>
 
 <p align="center">
