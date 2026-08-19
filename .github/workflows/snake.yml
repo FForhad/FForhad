@@ -1,4 +1,4 @@
-name: Generate Snake Contribution Animation
+name: Generate Profile Animations and Stats
 
 on:
   # Run automatically every 12 hours
@@ -32,8 +32,14 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # Generates streak stats SVG locally for instant loading via raw CDN
+      - name: Generate Streak Stats SVG
+        run: |
+          mkdir -p dist
+          curl -s --retry 3 --max-time 30 "https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&theme=transparent&hide_border=true" -o dist/streak.svg
+
       # Push generated files to the output branch
-      - name: Push Snake SVGs to output branch
+      - name: Push SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
