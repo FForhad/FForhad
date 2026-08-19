@@ -203,7 +203,7 @@ Scalable Backend Architecture · Production AI/ML**
 👨‍💻 **LeetCode:** [fforhad](https://leetcode.com/fforhad)
 
 📄 **Resumes:** [Industrial CV](https://drive.google.com/file/d/1L-Om0ppZu1dBgptgUSnWwY9jQrtLEt7N/view?usp=sharing) ·
-[Academic CV](https://drive.google.com/file/d/1jN_-NIM6PftbdujPAGiJuVQO7xdmiUm6/view?usp=sharing)
+[Academic CV](https://drive.google.com/file/d/1Y0tSBLI-xie9MTsF4_3K5I-30zCgQbw-/view?usp=sharing)
 
 ---
 
