@@ -1,10 +1,27 @@
-# 👋 Hi, I'm Forhad Uddin Ahmed
+<p align="center">
+  <a href="https://github.com/FForhad">
+    <img src="https://img.shields.io/badge/Backend-Software%20Engineer-3776AB.svg">
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3.12-3776AB.svg">
+  </a>
+  <a href="https://github.com/FForhad?tab=followers">
+    <img src="https://img.shields.io/github/followers/FForhad?label=Followers&style=flat">
+  </a>
+  <a href="https://github.com/FForhad?tab=repositories">
+    <img src="https://img.shields.io/github/stars/FForhad?label=Stars&style=flat">
+  </a>
+</p>
 
-### Backend Software Engineer · Python · Django · FastAPI · PostgreSQL · Redis
+<h1 align="center">👋 Hi, I'm Forhad Uddin Ahmed</h1>
+
+<p align="center">
+  <strong>Backend Software Engineer | Python • Django • FastAPI • PostgreSQL • Redis</strong>
+</p>
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=500\&size=22\&pause=1000\&color=3776AB\&center=true\&vCenter=true\&width=750\&lines=Backend+Software+Engineer;Python+%7C+Django+%7C+FastAPI;Building+Scalable+Backend+Systems;System+Design+%7C+Distributed+Systems;AI%2FML+%7C+Software+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=500\&size=21\&pause=1000\&color=3776AB\&center=true\&vCenter=true\&width=750\&lines=Backend+Software+Engineer;Python+%7C+Django+%7C+FastAPI;Building+Backend+Systems+and+REST+APIs;System+Design+%7C+Distributed+Systems;AI+%2F+ML+Researcher)](https://git.io/typing-svg)
 
 </p>
 
@@ -14,84 +31,77 @@
 
 ---
 
-I'm a **Backend Software Engineer** focused on building reliable APIs, scalable backend systems, and production-ready applications.
+### 👨‍💻 About Me
 
-My primary stack is **Python, Django, FastAPI, PostgreSQL, and Redis**, with hands-on experience in **Docker, Linux, CI/CD, cloud infrastructure, system design, and modern frontend technologies**.
+I'm a **Backend Software Engineer** focused on building backend systems, REST APIs, and full-stack applications.
 
-I enjoy going beyond making software work. I like understanding **how systems behave under load, how data flows through them, where bottlenecks appear, and how to design them for reliability and scale.**
+I primarily work with **Python, Django, FastAPI, PostgreSQL, and Redis**, with hands-on experience in **Docker, Linux, authentication, CI/CD, cloud infrastructure, and modern frontend technologies**.
 
-> **I like understanding how systems work under the hood, not just making them work.**
+I'm also the **Founder of InitZone** and a **former university lecturer**, with a background in competitive programming, software engineering, and AI/ML research.
 
----
-
-## ⚡ Quick Facts
-
-* 🔭 Building **[Portulika](https://www.portulika.com)**, a reading and writing platform
-* 🏢 Founder of **InitZone**, a software and technology company
-* 🏆 **3× ICPC Asia Dhaka Regional Contestant** — 2021, 2022, 2023
-* 🧩 Solved **700+ algorithmic problems** across multiple online judges
-* 🐍 Backend-focused engineer working primarily with **Python**
-* 🚀 Exploring **Redis internals, Kubernetes, system design, and distributed systems**
-* 🤖 Research experience in **Machine Learning, AI, and intelligent systems**
-* 🎓 Former university lecturer in **Data Structures, Algorithms, and Discrete Mathematics**
-* 🌱 Currently focused on becoming a stronger **production-grade backend and systems engineer**
-* 🌶️ Fun fact: I enjoy growing **chilies and lettuce** in my garden
+> I like understanding how systems work under the hood, not just making them work.
 
 ---
 
-## 🧠 Engineering Focus
+### ⚡ Quick Facts
+
+|                            |                                                                    |
+| -------------------------- | ------------------------------------------------------------------ |
+| 🔭 **Currently Building**  | [Portulika](https://www.portulika.com)                             |
+| 🏢 **Founder**             | InitZone                                                           |
+| 🏆 **ICPC**                | 3× ICPC Asia Dhaka Regional Contestant — 2021, 2022, 2023          |
+| 🧩 **Problem Solving**     | 700+ algorithmic problems                                          |
+| 🎓 **Academic Experience** | Former University Lecturer                                         |
+| 🤖 **Research**            | Machine Learning · AI · Intelligent Systems                        |
+| 🌱 **Currently Learning**  | Redis Internals · Kubernetes · System Design · Distributed Systems |
+| ⚡ **Fun Fact**             | I enjoy growing chilies and lettuce in my garden                   |
+
+---
+
+### 🛠️ My Skills
 
 | Area                       | Technologies                                                  |
-| :------------------------- | :------------------------------------------------------------ |
-| **Backend Engineering**    | Python · Django · Django REST Framework · FastAPI             |
+| -------------------------- | ------------------------------------------------------------- |
+| **Languages**              | Python · C · C++ · Bash · TypeScript                          |
+| **Backend**                | Django · Django REST Framework · FastAPI                      |
 | **Databases**              | PostgreSQL · MySQL · SQLite                                   |
-| **Caching & Data**         | Redis                                                         |
-| **Frontend**               | React · Next.js · TypeScript · Tailwind CSS                   |
-| **DevOps**                 | Docker · Linux · Nginx · GitHub Actions · Jenkins · Ansible   |
-| **Cloud & Infrastructure** | AWS · Google Cloud · Kubernetes                               |
+| **Caching**                | Redis                                                         |
+| **Frontend**               | React · Next.js · Tailwind CSS                                |
+| **DevOps / CI/CD**         | Docker · Linux · Nginx · GitHub Actions · Jenkins · Ansible   |
+| **Cloud / Infrastructure** | AWS · Google Cloud · Kubernetes                               |
 | **Architecture**           | REST APIs · System Design · Distributed Systems               |
 | **AI / ML**                | Machine Learning · Explainable AI · RAG · Intelligent Systems |
 
 ---
 
-## 🚀 What I Build
+### 🚀 Featured Project
 
-I particularly enjoy projects that sit at the intersection of **backend engineering, infrastructure, and intelligent systems**.
+#### 🤖 AI-Powered ATS Resume Optimization Platform
 
-That means working on things like:
-
-* 🏗️ Scalable REST APIs and backend services
-* 🔐 Authentication, authorization, and secure API design
-* ⚡ Caching and performance optimization with Redis
-* 🗄️ Database design and query optimization
-* 🐳 Containerized production environments
-* 🔄 CI/CD pipelines and deployment automation
-* ☸️ Kubernetes and distributed systems
-* 🤖 AI-powered applications with reliable backend architectures
-* 📊 Monitoring, logging, and observability
-* 🧩 System design and software architecture
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 [AI-Powered ATS Resume Optimization Platform](https://github.com/FForhad/ats-resume-agent)
+<a href="https://github.com/FForhad/ats-resume-agent">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" alt="View Project">
+</a>
 
 A production-grade AI system that analyzes resumes against job descriptions and generates **truthful, evidence-grounded, ATS-friendly optimizations**.
 
-**Stack:** Python · Django · DRF · Next.js · TypeScript · PostgreSQL · Redis · Gemini · LangGraph · RAG · FAISS · Docker · Jenkins · Ansible · Prometheus · Grafana · Loki
+**Tech Stack**
 
-**Highlights:** Multi-agent AI · Hybrid RAG · Deterministic ATS scoring · Zero-fabrication architecture · Prompt-injection protection · Automated evaluation · CI/CD · Infrastructure automation · Observability
+`Python` `Django` `DRF` `Next.js` `TypeScript` `PostgreSQL` `Redis` `Gemini` `LangGraph` `RAG` `FAISS` `Docker` `Jenkins` `Ansible` `Prometheus` `Grafana` `Loki`
 
-#### Why I'm Proud
+**Key Features**
 
-I built this to explore what happens when an LLM is treated as **one component of a real software system rather than the entire system**.
+* 🤖 Multi-agent AI architecture
+* 🔎 Hybrid RAG
+* 📊 Deterministic ATS scoring
+* 🛡️ Prompt-injection protection
+* 🚫 Zero-fabrication architecture
+* 🧪 Automated evaluation
+* 🔄 CI/CD automation
+* ⚙️ Infrastructure automation
+* 📈 Production observability
 
-The project combines AI reasoning with deterministic rules, evidence-based retrieval, security, testing, CI/CD, deployment automation, and observability.
+> **The core principle:** Optimize the candidate's real experience. Never invent it.
 
-The core principle is simple:
-
-> **Optimize the candidate's real experience. Never invent it.**
 
 
 # 👋 Hi, I'm Forhad Uddin Ahmed 
