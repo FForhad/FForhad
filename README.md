@@ -178,7 +178,7 @@ Scalable Backend Architecture · Production AI/ML**
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FForhad&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FForhad&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
