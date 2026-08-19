@@ -56,18 +56,6 @@ and AI/ML research.
   chilies and lettuce in my garden
 
 ---
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FForhad/FForhad/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FForhad/FForhad/output/github-contribution-grid-snake.svg">
-    <img alt="FForhad's GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/FForhad/FForhad/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
 
 ## 💼 Engineering Focus
 
@@ -177,12 +165,13 @@ Scalable Backend Architecture · Production AI/ML**
 
 ## 📊 GitHub Activity
 
-<div align="center">
-
-| <img src="https://github-readme-stats.vercel.app/api?username=FForhad&show_icons=true&theme=radical&include_all_commits=true" alt="FForhad GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FForhad&theme=radical&layout=compact" alt="Top Languages" /> |
-|:---:|:---:|
-
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FForhad/FForhad/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FForhad/FForhad/output/github-contribution-grid-snake.svg">
+    <img alt="FForhad's GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/FForhad/FForhad/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FForhad&theme=radical" alt="GitHub Streak" />
@@ -191,13 +180,6 @@ Scalable Backend Architecture · Production AI/ML**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FForhad&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
 </p>
-
-<div align="center">
-  <br/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=FForhad&theme=radical" alt="FForhad GitHub Profile Trophy" />
-  </a>
-</div>
 
 ---
 
