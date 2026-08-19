@@ -59,8 +59,15 @@ and AI/ML research.
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 
-<!--   green snake -->
-![FForhad's github activity graph](https://raw.githubusercontent.com/FForhad/FForhad/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FForhad/FForhad/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FForhad/FForhad/output/github-contribution-grid-snake.svg">
+    <img alt="FForhad's GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/FForhad/FForhad/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
 
 ## 💼 Engineering Focus
 
@@ -169,16 +176,6 @@ Scalable Backend Architecture · Production AI/ML**
 ---
 
 ## 📊 GitHub Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FForhad/FForhad/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FForhad/FForhad/output/github-contribution-grid-snake.svg">
-    <img alt="FForhad's GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/FForhad/FForhad/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
-<br/>
 
 <div align="center">
 
