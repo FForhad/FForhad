@@ -86,6 +86,32 @@ A production-grade AI system that analyzes resumes against job descriptions and 
 I built this to explore what happens when an LLM is treated as **one component of a real software system rather than the entire system**. The project combines AI reasoning with deterministic rules, evidence-based retrieval, security, testing, CI/CD, deployment automation, and observability.
 
 The core principle is simple: **optimize the candidate's real experience, never invent it.**
+
+
+### ⚙️ [ForgeFlow — Distributed Job Processing Platform](https://github.com/FForhad/forgeflow)
+
+A production-oriented **distributed job processing and orchestration platform** designed to explore how reliable background workloads can be scheduled, executed, monitored, retried, and recovered across distributed workers.
+
+**Stack:** Python · Django · Django REST Framework · PostgreSQL · Redis · Django Channels · WebSockets · Docker · Prometheus · Grafana · Loki · OpenTelemetry · Tempo
+
+**Highlights:** Multi-tenancy · RBAC · Idempotent job submission · Priority queues · Concurrency control · Worker heartbeats · Zombie job recovery · Retry with exponential backoff + jitter · Distributed rate limiting · Scoped API keys · Real-time job updates · Metrics · Structured logging · Distributed tracing
+
+#### Why I'm Proud
+
+I built ForgeFlow to explore what happens when a simple background task system is pushed toward **production-grade distributed systems engineering**.
+
+The interesting part isn't submitting a job and waiting for a worker to finish it. The real challenge is handling what happens when distributed systems fail:
+
+**What if a worker disappears?  
+What if the same job is submitted twice?  
+What if multiple workers race for the same task?  
+What if a job keeps failing?  
+What if the system is overloaded?  
+How do you know what actually happened?**
+
+ForgeFlow addresses these problems through **database concurrency safeguards, Redis-backed queues, worker health monitoring, retry policies, rate limiting, real-time communication, and full-stack observability**.
+
+The core principle is simple: **distributed systems should be designed for failure, not just the happy path.**
 <!-- 
 
 ### 📚 Portulika
