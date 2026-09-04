@@ -8,7 +8,7 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=FForhad.FForhad" alt="visitors"/>
 </p>
 
-<!-- header-banner -->#
+<!-- header-banner -->
 <p align="center">
   <img src="./assets/image.png" alt="Header Banner" width="100%" />
 </p>
