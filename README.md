@@ -63,6 +63,7 @@ Currently, I'm building products through **InitZone** and exploring research pro
 * AI-driven Software Engineering
 
 </td>
+
 <td width="50%">
 
 ### ⚙️ Engineering
@@ -80,13 +81,21 @@ Currently, I'm building products through **InitZone** and exploring research pro
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 Featured Projects
 
 ### 🧠 AI-Powered ATS Resume Optimization
 
-<a href="https://github.com/FForhad/ats-resume-agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FForhad&repo=ats-resume-agent&theme=github_dark&hide_border=true" />
-</a>
+<p align="center">
+  <a href="https://github.com/FForhad/ats-resume-agent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FForhad&repo=ats-resume-agent&theme=github_dark&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="./assets/ats-resume-agent.png"
+       alt="ATS Resume Agent Architecture"
+       width="88%" />
+</p>
 
 A production-oriented AI system that analyzes resumes against job descriptions and generates **truthful, evidence-grounded, ATS-friendly optimizations**.
 
@@ -112,9 +121,17 @@ A production-oriented AI system that analyzes resumes against job descriptions a
 
 ### ⚙️ ForgeFlow — Distributed Job Processing Platform
 
-<a href="https://github.com/FForhad/forgeflow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FForhad&repo=forgeflow&theme=github_dark&hide_border=true" />
-</a>
+<p align="center">
+  <a href="https://github.com/FForhad/forgeflow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FForhad&repo=forgeflow&theme=github_dark&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="./assets/forgeflow-architecture.png"
+       alt="ForgeFlow Architecture"
+       width="88%" />
+</p>
 
 A distributed job processing and orchestration platform built to explore how reliable background workloads can be **scheduled, executed, monitored, retried, and recovered** across distributed workers.
 
@@ -143,15 +160,29 @@ A distributed job processing and orchestration platform built to explore how rel
 
 ## 🎨 Visual Highlights
 
-<p align="center">
-  <img src="./assets/forgeflow-architecture.png" alt="ForgeFlow Architecture" width="92%" />
-</p>
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🤖 ATS Resume Agent
+
+AI-powered resume analysis, optimization, retrieval, evaluation, and evidence validation.
+
+</td>
+
+<td width="50%" align="center">
+
+### ⚙️ ForgeFlow
+
+Distributed job processing, queue management, worker execution, recovery, and observability.
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <i>System architectures, research workflows, infrastructure, and engineering experiments.</i>
+  <i>Architecture diagrams and engineering experiments from systems I build.</i>
 </p>
-
-> 💡 Add architecture diagrams, system workflows, product screenshots, or research pipelines to the `assets/` directory and showcase them here.
 
 ---
 
@@ -191,12 +222,15 @@ I'm the **Founder of InitZone**, a technology and software company focused on bu
 ### Products
 
 **📖 Portulika**
+
 A reading and writing platform connecting writers and readers through stories, series, chapters, subscriptions, and digital publishing.
 
 **⚽ TurfzBD**
+
 A platform focused on simplifying turf discovery and sports-slot booking.
 
 **🧩 InitZone**
+
 The engineering and product ecosystem behind our digital products and intelligent systems.
 
 ---
@@ -321,7 +355,7 @@ Trained **50+ participants in Python/Django** under the EDGE project.
 </a>
 
 <a href="https://leetcode.com/fforhad">
-<img src="https://img.shields.io/badge/LeetCode-FForhad-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+<img src="https://img.shields.io/badge/LeetCode-FForhad-FFA116?style=for-the-badge&logo=leetcode">
 </a>
 
 <a href="https://github.com/FForhad">
@@ -329,6 +363,8 @@ Trained **50+ participants in Python/Django** under the EDGE project.
 </a>
 
 </p>
+
+---
 
 ### 📄 Resume
 
