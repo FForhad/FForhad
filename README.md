@@ -1,231 +1,350 @@
-
 <p align="center">
-    <a href="https://github.com/FForhad/FForhad"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg" alt="status"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg" alt="Python 3.12"></a>
-    <a href="https://github.com/FForhad/FForhad/graphs/contributors"><img src="https://img.shields.io/github/contributors/FForhad/FForhad?color=blue" alt="contributors"></a>
-    <a href="https://github.com/FForhad/FForhad/stargazers"><img src="https://img.shields.io/github/stars/FForhad/FForhad.svg?logo=github" alt="stars"></a>
-    <a href="https://github.com/FForhad/FForhad/network/members"><img src="https://img.shields.io/github/forks/FForhad/FForhad.svg?color=blue&logo=github" alt="forks"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=FForhad.FForhad" alt="visitors"/>
+  <img src="./assets/image.png" alt="Forhad Uddin Ahmed — AI/ML Researcher & Software Engineer" width="100%" />
 </p>
 
-<!-- header-banner -->
 <p align="center">
-  <img src="./assets/image.png" alt="Header Banner" width="100%" />
+  <a href="https://github.com/FForhad">
+    <img src="https://img.shields.io/badge/GitHub-FForhad-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://fforhad.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-fforhad.github.io-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://leetcode.com/fforhad">
+    <img src="https://img.shields.io/badge/LeetCode-700%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=FForhad&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views">
 </p>
-<!--   my-header-img -->
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
-<!-- my-ticker -->
+<p align="center">
+  <a href="https://github.com/FForhad/FForhad/stargazers">
+    <img src="https://img.shields.io/github/stars/FForhad/FForhad?style=flat-square&logo=github" alt="Stars">
+  </a>
+  <a href="https://github.com/FForhad/FForhad/network/members">
+    <img src="https://img.shields.io/github/forks/FForhad/FForhad?style=flat-square&logo=github" alt="Forks">
+  </a>
+  <img src="https://img.shields.io/badge/Status-Building%20%26%20Researching-brightgreen?style=flat-square" alt="Status">
+</p>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Forhad+Uddin+Ahmed;_Backend+Software+Engineer+%7C+Python+•Django+•FastAPI;Founder+of+InitZone;Former+University+Lecturer;3x+ICPC+Asia+Dhaka+Regional+Contestant;Exploring+System+Design+%26+Distributed+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=850&lines=AI%2FML+Researcher+%26+Software+Engineer;Machine+Learning+%7C+Explainable+AI+%7C+Intelligent+Systems;Python+%7C+Django+%7C+FastAPI+%7C+PostgreSQL+%7C+Redis;Founder+%40+InitZone;3%C3%97+ICPC+Asia+Dhaka+Regional+Contestant" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-# 👋 Hi, I'm Forhad Uddin Ahmed 
+# 👋 Hi, I'm Forhad Uddin Ahmed
 
-### Backend Software Engineer | Python • Django • FastAPI • PostgreSQL • Redis
+### AI/ML Researcher & Software Engineer
 
-Software engineer focused on building **backend systems, REST APIs, and
-full-stack applications**. I primarily work with **Python, Django, and
-FastAPI**, with hands-on experience in databases, caching, authentication,
-Docker, Linux, CI/CD, and modern frontend technologies.
+I build **intelligent software systems and production-oriented backend infrastructure**.
 
-I'm also the **Founder of InitZone** and a **former university lecturer**,
-with a strong background in competitive programming, software engineering,
-and AI/ML research.
+My work sits at the intersection of **Machine Learning, Explainable AI, software engineering, and scalable systems**. I enjoy taking an idea from research or architecture all the way to a working system.
 
-> I like understanding how systems work under the hood, not just making them work.
+Currently, I'm building products through **InitZone** and exploring research problems around **dependable intelligent systems, AI/ML reliability, and AI-driven software engineering**.
+
+> **I like understanding how systems work under the hood, not just making them work.**
 
 ---
 
-## 🚀 Quick Facts
+## ⚡ At a Glance
 
-- 🔭 Currently building **Portulika** (www.portulika.com)
-- 🏢 Founder of **InitZone**, a software and technology company
-- 🏆 **3× ICPC Asia Dhaka Regional Contestant** (2021, 2022, 2023)
-- 🧩 Solved **700+ algorithmic problems** across multiple online judges
-- 🌱 Currently exploring **Redis internals, Kubernetes, system design,
-  and distributed systems**
-- 🎓 Former university lecturer in **Data Structures, Algorithms,
-  and Discrete Mathematics**
-- 🤖 Research experience in **Machine Learning and AI**
-- ⚡ Fun fact: I enjoy growing
-  chilies and lettuce in my garden
+<table>
+<tr>
+<td width="50%">
 
----
+### 🔬 Research
 
-## 💼 Engineering Focus
+* Machine Learning
+* Explainable AI
+* Predictive Modeling
+* Intelligent Systems
+* AI/ML Reliability
+* AI-driven Software Engineering
 
-| Area | Technologies |
-|------|--------------|
-| **Backend** | Python · Django · DRF · FastAPI |
-| **Databases** | PostgreSQL · MySQL · SQLite |
-| **Caching** | Redis |
-| **Frontend** | React · Next.js · Tailwind CSS |
-| **DevOps** | Docker · Linux · Nginx · GitHub Actions |
-| **Infrastructure** | Kubernetes · CI/CD |
-| **Architecture** | REST APIs · System Design · Distributed Systems |
-| **AI/ML** | Machine Learning · Explainable AI · Intelligent Systems |
+</td>
+<td width="50%">
 
----
+### ⚙️ Engineering
 
-## 🚀 Featured Projects
-### 🤖 [AI-Powered ATS Resume Optimization Platform](https://github.com/FForhad/ats-resume-agent)
+* Backend Architecture
+* Distributed Systems
+* REST APIs
+* System Design
+* DevOps & Observability
+* Production AI Systems
 
-A production-grade AI system that analyzes resumes against job descriptions and generates **truthful, evidence-grounded, ATS-friendly optimizations**.
-
-**Stack:** Python · Django · DRF · Next.js · TypeScript · PostgreSQL · Redis · Gemini · LangGraph · RAG · FAISS · Docker · Jenkins · Ansible · Prometheus · Grafana · Loki
-
-**Highlights:** Multi-agent AI · Hybrid RAG · Deterministic ATS scoring · Zero-fabrication architecture · Prompt-injection protection · Automated evaluation · CI/CD · Infrastructure automation · Observability
-
-#### Why I'm Proud
-
-I built this to explore what happens when an LLM is treated as **one component of a real software system rather than the entire system**. The project combines AI reasoning with deterministic rules, evidence-based retrieval, security, testing, CI/CD, deployment automation, and observability.
-
-The core principle is simple: **optimize the candidate's real experience, never invent it.**
-
-
-### ⚙️ [ForgeFlow — Distributed Job Processing Platform](https://github.com/FForhad/forgeflow)
-
-A production-oriented **distributed job processing and orchestration platform** designed to explore how reliable background workloads can be scheduled, executed, monitored, retried, and recovered across distributed workers.
-
-**Stack:** Python · Django · Django REST Framework · PostgreSQL · Redis · Django Channels · WebSockets · Docker · Prometheus · Grafana · Loki · OpenTelemetry · Tempo
-
-**Highlights:** Multi-tenancy · RBAC · Idempotent job submission · Priority queues · Concurrency control · Worker heartbeats · Zombie job recovery · Retry with exponential backoff + jitter · Distributed rate limiting · Scoped API keys · Real-time job updates · Metrics · Structured logging · Distributed tracing
-
-#### Why I'm Proud
-
-I built ForgeFlow to explore **production-grade distributed systems engineering**, especially what happens when workers fail, jobs are duplicated, tasks race, or workloads become overloaded.
-
-The core principle is simple: **distributed systems should be designed for failure, not just the happy path.**
-<!-- 
-
-### 📚 Portulika
-
-A reading and writing platform where writers can publish stories and
-readers can discover, review, and engage with content.
-
-**Django · Django REST Framework · PostgreSQL · Redis · Next.js · Docker**
-
-🔗 [View Repository](YOUR_PORTULIKA_REPO)
+</td>
+</tr>
+</table>
 
 ---
 
-### 🌐 VirtualLife
+## 🚀 What I'm Building
 
-An AI-powered social platform featuring authentication, intelligent
-content moderation, recommendation systems, and a modern API-driven
-architecture.
+### 🧠 AI-Powered ATS Resume Optimization
 
-**Django · Django REST Framework · React · PostgreSQL · AI/ML · JWT · OAuth · Docker · CI/CD**
+<a href="https://github.com/FForhad/ats-resume-agent">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FForhad&repo=ats-resume-agent&theme=github_dark&hide_border=true" />
+</a>
 
-🔗 [View Repository](YOUR_VIRTUALLIFE_REPO)
+A production-oriented AI system that analyzes resumes against job descriptions and generates **truthful, evidence-grounded, ATS-friendly optimizations**.
+
+**Stack**
+
+`Python` `Django` `DRF` `Next.js` `TypeScript` `PostgreSQL` `Redis` `Gemini` `LangGraph` `RAG` `FAISS` `Docker` `Jenkins` `Ansible` `Prometheus` `Grafana` `Loki`
+
+**Engineering ideas**
+
+* Multi-agent AI
+* Hybrid RAG
+* Deterministic ATS scoring
+* Evidence-grounded generation
+* Zero-fabrication architecture
+* Prompt-injection protection
+* Automated evaluation
+* CI/CD & infrastructure automation
+* Production observability
+
+> **Core principle:** optimize the candidate's real experience, never invent it.
 
 ---
 
-### 🌙 Prayer Companion
+### ⚙️ ForgeFlow — Distributed Job Processing Platform
 
-A Linux desktop application for prayer-time tracking, countdowns,
-daily prayer records, and consistency tracking.
+<a href="https://github.com/FForhad/forgeflow">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FForhad&repo=forgeflow&theme=github_dark&hide_border=true" />
+</a>
 
-**Python · PySide6 · SQLite · Linux**
+A distributed job processing and orchestration platform built to explore how reliable background workloads can be **scheduled, executed, monitored, retried, and recovered** across distributed workers.
 
-🔗 [View Repository](https://github.com/FForhad/prayer-companion) -->
+**Stack**
+
+`Python` `Django` `DRF` `PostgreSQL` `Redis` `Channels` `WebSockets` `Docker` `Prometheus` `Grafana` `Loki` `OpenTelemetry` `Tempo`
+
+**Engineering ideas**
+
+* Multi-tenancy
+* RBAC
+* Idempotent job submission
+* Priority queues
+* Concurrency control
+* Worker heartbeats
+* Zombie job recovery
+* Retry with exponential backoff + jitter
+* Distributed rate limiting
+* Scoped API keys
+* Real-time job updates
+* Metrics, logging & tracing
+
+> **Core principle:** distributed systems should be designed for failure, not just the happy path.
+
+---
+
+## 🎨 Visual Highlights
+
+<p align="center">
+  <img src="./assets/forgeflow-architecture.png" alt="ForgeFlow Architecture" width="92%" />
+</p>
+
+<p align="center">
+  <i>System architectures, research workflows, infrastructure, and engineering experiments.</i>
+</p>
+
+> 💡 Add architecture diagrams, system workflows, product screenshots, or research pipelines to the `assets/` directory and showcase them here.
+
+---
+
+## 📚 Research
+
+My research interests focus on the intersection of **Machine Learning, Explainable AI, predictive modeling, and dependable intelligent systems**.
+
+### Selected Research
+
+| Area                   | Work                                                |
+| ---------------------- | --------------------------------------------------- |
+| 🧠 Healthcare AI       | Brain Stroke Prediction using Machine Learning      |
+| ₿ Financial AI         | Bitcoin Price Forecasting                           |
+| 🔍 Explainable AI      | Feature Selection & Explainable Predictive Modeling |
+| 🤖 Intelligent Systems | Reliability and evaluation of AI/ML systems         |
+
+### Publications
+
+* 📄 Peer-reviewed research on **Bitcoin Price Forecasting**
+* 🧠 Research on **Brain Stroke Prediction using Machine Learning**
+* 🎓 First-author research presented at **IEEE conferences**, including ICICT4SD and ICCIT
+
+I'm currently exploring research problems involving:
+
+`Machine Learning` · `XAI` · `NLP` · `LLMs` · `AI-driven Software Engineering` · `Dependable AI` · `AI/ML Reliability`
+
+---
+
+## 🏢 InitZone
+
+<p align="center">
+  <img src="./assets/initzone.png" alt="InitZone" width="80%" />
+</p>
+
+I'm the **Founder of InitZone**, a technology and software company focused on building **digital products, platforms, and intelligent systems**.
+
+### Products
+
+**📖 Portulika**
+A reading and writing platform connecting writers and readers through stories, series, chapters, subscriptions, and digital publishing.
+
+**⚽ TurfzBD**
+A platform focused on simplifying turf discovery and sports-slot booking.
+
+**🧩 InitZone**
+The engineering and product ecosystem behind our digital products and intelligent systems.
+
+---
+
+## 🧑‍💻 Engineering Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,linux,githubactions,jenkins,ansible,aws,gcp,react,nextjs,typescript,git&perline=8" />
+</p>
+
+### Backend
+
+`Python` · `Django` · `Django REST Framework` · `FastAPI`
+
+### Data
+
+`PostgreSQL` · `MySQL` · `SQLite` · `Redis`
+
+### Frontend
+
+`React` · `Next.js` · `TypeScript` · `Tailwind CSS`
+
+### Infrastructure
+
+`Docker` · `Linux` · `Nginx` · `GitHub Actions` · `Jenkins` · `Ansible`
+
+### Observability
+
+`Prometheus` · `Grafana` · `Loki` · `OpenTelemetry` · `Tempo`
+
+### AI / ML
+
+`Machine Learning` · `Explainable AI` · `LLMs` · `RAG` · `FAISS` · `LangGraph`
 
 ---
 
 ## 🏆 Competitive Programming
 
-- 🥇 **3× ICPC Asia Dhaka Regional Contestant** — 2021, 2022, 2023
-- 🧠 Solved **700+ algorithmic problems** across multiple online judges
-- 🏁 **IUPC Contestant** at SUST and CUET
-- 👨‍💻 Former **General Secretary, BAIUST Computer Club**
+<p align="center">
 
-Competitive programming strengthened my problem-solving skills,
-algorithmic thinking, and ability to reason about complexity and
-constraints.
+**3× ICPC Asia Dhaka Regional Contestant**
 
----
+</p>
 
-## 📚 Research & Academic Experience
+* 🥇 ICPC Asia Dhaka Regional — **2021, 2022, 2023**
+* 🧠 **700+** algorithmic problems solved
+* 🏁 Multiple IUPC contests including SUST and CUET
+* 👨‍💻 Former **General Secretary, BAIUST Computer Club**
+* 🧩 IUPC problem setter & judge
 
-My research interests sit at the intersection of **software engineering,
-Artificial Intelligence, and Machine Learning**, with applications in
-healthcare and intelligent systems.
-
-### Research
-
-- 📄 Peer-reviewed research on **Bitcoin Price Forecasting**
-- 🧠 Research on **Brain Stroke Prediction using Machine Learning**
-- 🎓 First-author research presented at **IEEE conferences**, including
-  ICICT4SD and ICCIT
-
-### Teaching & Mentorship
-
-- 🎓 Former university lecturer
-- 📘 Taught **Data Structures, Algorithms, and Discrete Mathematics**
-- 👨‍🏫 Trained **50+ participants in Python/Django** under the EDGE project
+Competitive programming shaped the way I approach **algorithms, complexity, debugging, and problem decomposition**.
 
 ---
 
-## 🧠 Currently Exploring
+## 🎓 Teaching & Mentorship
 
-**System Design · Distributed Systems · Redis Internals · Kubernetes ·
-Scalable Backend Architecture · Production AI/ML**
+### Former University Lecturer
+
+Taught courses and labs involving:
+
+`Data Structures` · `Algorithms` · `Discrete Mathematics` · `Structured Programming` · `Numerical Analysis`
+
+### EDGE Bangladesh
+
+Trained **50+ participants in Python/Django** under the EDGE project.
+
+### Technical Community
+
+* 🎤 CSE FEST 2025 speaker
+* 🧩 CSE FEST 2023 IUPC problem setter & judge
+* 👨‍🏫 Competitive programming and software engineering mentorship
+
+---
+
+## 🧭 Currently Exploring
+
+<p align="center">
+
+`System Design`
+`Distributed Systems`
+`Redis Internals`
+`Kubernetes`
+`Scalable Backend Architecture`
+`Production AI/ML`
+`Dependable Intelligent Systems`
+
+</p>
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FForhad&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FForhad&theme=github-dark-blue&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FForhad&theme=github-compact&hide_border=true" width="95%" />
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FForhad/FForhad/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FForhad/FForhad/output/github-contribution-grid-snake.svg">
-    <img alt="FForhad's GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/FForhad/FForhad/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/FForhad/FForhad/output/github-contribution-grid-snake.svg" alt="GitHub contribution graph" width="95%">
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FForhad/FForhad/output/streak.svg" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FForhad&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Find Me Online
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,linux,githubactions,jenkins,ansible,aws,gcp,react,nextjs,typescript,git&perline=8" />
+
+<a href="https://fforhad.github.io">
+<img src="https://img.shields.io/badge/Portfolio-fforhad.github.io-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+
+<a href="mailto:forhad.uddin9028@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://leetcode.com/fforhad">
+<img src="https://img.shields.io/badge/LeetCode-FForhad-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+</a>
+
+<a href="https://github.com/FForhad">
+<img src="https://img.shields.io/badge/GitHub-FForhad-181717?style=for-the-badge&logo=github">
+</a>
+
 </p>
 
----
+### 📄 Resume
 
-## 🌐 Let's Connect
-
-
-📧 **Email:** [forhad.uddin9028@gmail.com](mailto:forhad.uddin9028@gmail.com)
-
-<!-- 💼 **LinkedIn:** [LinkedIn Profile](YOUR_LINKEDIN) -->
-
-🌐 **Portfolio:** [fforhad.github.io](https://fforhad.github.io)
-
-👨‍💻 **LeetCode:** [fforhad](https://leetcode.com/fforhad)
-
-📄 **Resumes:** [Industrial CV](https://drive.google.com/file/d/1L-Om0ppZu1dBgptgUSnWwY9jQrtLEt7N/view?usp=sharing) ·
-[Academic CV](https://drive.google.com/file/d/18o_VWbkKODwApCMoEG1Quo9l8xFzLRet/view?usp=sharing)
+* [Industrial Resume](https://drive.google.com/file/d/1L-Om0ppZu1dBgptgUSnWwY9jQrtLEt7N/view?usp=sharing)
+* [Academic Resume](https://drive.google.com/file/d/18o_VWbkKODwApCMoEG1Quo9l8xFzLRet/view?usp=sharing)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FForhad&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=FForhad&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 
 <p align="center">
-  ⭐ Feel free to explore my repositories and projects.
+  <strong>Build. Research. Learn. Repeat.</strong>
+</p>
+
+<p align="center">
+  Thanks for stopping by 👋
 </p>
