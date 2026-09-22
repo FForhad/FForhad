@@ -214,7 +214,13 @@ I'm currently exploring research problems involving:
 ## 🏢 InitZone
 
 <p align="center">
-  <img src="./assets/initzone.jpg" alt="InitZone" width="80%" />
+  <img src="./assets/initzone.jpg" alt="InitZone" width="70%" />
+</p>
+
+<p align="center">
+  <a href="https://initzone.tech">
+    <img src="https://img.shields.io/badge/Website-initzone.tech-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="InitZone Website">
+  </a>
 </p>
 
 I'm the **Founder of InitZone**, a technology and software company focused on building **digital products, platforms, and intelligent systems**.
@@ -232,6 +238,7 @@ A platform focused on simplifying turf discovery and sports-slot booking.
 **🧩 InitZone**
 
 The engineering and product ecosystem behind our digital products and intelligent systems.
+
 
 ---
 
