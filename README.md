@@ -214,7 +214,7 @@ I'm currently exploring research problems involving:
 ## 🏢 InitZone
 
 <p align="center">
-  <img src="./assets/initzone.jpg" alt="InitZone" width="70%" />
+  <img src="./assets/initzone.jpg" alt="InitZone" width="20%" />
 </p>
 
 <p align="center">
