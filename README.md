@@ -183,7 +183,7 @@ I'm currently exploring research problems involving:
 ## 🏢 InitZone
 
 <p align="center">
-  <img src="./assets/initzone.png" alt="InitZone" width="80%" />
+  <img src="./assets/initzone.jpg" alt="InitZone" width="80%" />
 </p>
 
 I'm the **Founder of InitZone**, a technology and software company focused on building **digital products, platforms, and intelligent systems**.
