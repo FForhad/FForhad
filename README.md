@@ -375,7 +375,7 @@ Trained **50+ participants in Python/Django** under the EDGE project.
 
 ### 📄 Resume
 
-* [Industrial Resume](https://drive.google.com/file/d/1L-Om0ppZu1dBgptgUSnWwY9jQrtLEt7N/view?usp=sharing)
+* [Industrial Resume](https://drive.google.com/file/d/1faiR0yKoIrpj4JErpJRlWyzN9_DsZ2hp/view?usp=sharing)
 * [Academic Resume](https://drive.google.com/file/d/18o_VWbkKODwApCMoEG1Quo9l8xFzLRet/view?usp=sharing)
 
 ---
